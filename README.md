@@ -14,4 +14,4 @@ Menu Responsive
 Tarjeta 
 ![image](https://user-images.githubusercontent.com/19364556/195166136-a346e748-0cc2-47a5-9fa3-846804179b5e.png)
 
-Guia: https://www.youtube.com/watch?v=AXPASVeX74o&list=PLyq-JRmrlcZhzti8HRQRq_4mP4lC1wiGg&index=5&t=17850s&ab_channel=Codigo369
+Guia: https://www.youtube.com/watch?v=nQobb4pcU78
