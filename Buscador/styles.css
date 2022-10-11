@@ -1,0 +1,62 @@
+*{
+	box-sizing: border-box;
+}
+
+.contenedor-img-google{
+	display: flex;
+	justify-content: center !important;
+}
+
+
+.img-google{
+	width: 450px;
+	height: 200px;
+}
+
+
+body{
+	font-family: sans-serif;
+	margin: 0;
+	height: 80vh;
+}
+
+.buscador-bar{
+	border: solid 1px gray;
+	border-radius: 25px;
+	display: flex;
+	flex-direction: row;
+	align-items: center;
+	padding: 5px 10px;
+	margin: 120px auto;
+}
+
+.buscador-bar:focus-within{
+	border: solid 1px gainsboro;
+	box-shadow: 5px 5px 5px black;
+}
+
+.buscador-bar input{
+	border: none;
+	outline: none;
+	padding: 10px;
+	font-size: 20px;
+	flex: 1;
+}
+
+.buscador-bar .acciones{
+	display: flex;
+	gap: 10px;
+
+}
+
+.buscador-bar .acciones button{
+	border: none;
+	outline: none;
+	background: none;
+	cursor: pointer;
+	color: #b690d9;
+}
+
+.buscador-bar .acciones button:hover{
+	color: #ff481b;
+}
